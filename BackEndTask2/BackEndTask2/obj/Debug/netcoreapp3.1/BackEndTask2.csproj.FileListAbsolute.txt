@@ -33,3 +33,38 @@ C:\Users\HP\source\repos\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackE
 C:\Users\HP\source\repos\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.genruntimeconfig.cache
 C:\Users\HP\source\repos\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.csproj.CopyComplete
 C:\Users\HP\source\repos\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.exe
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.deps.json
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.runtimeconfig.json
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.runtimeconfig.dev.json
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.dll
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.pdb
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.Views.dll
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\bin\Debug\netcoreapp3.1\BackEndTask2.Views.pdb
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.csproj.AssemblyReference.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.GeneratedMSBuildEditorConfig.editorconfig
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.AssemblyInfoInputs.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.AssemblyInfo.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.csproj.CoreCompileInputs.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.MvcApplicationPartsAssemblyInfo.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.RazorAssemblyInfo.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.RazorAssemblyInfo.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\staticwebassets\BackEndTask2.StaticWebAssets.Manifest.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\staticwebassets\BackEndTask2.StaticWebAssets.xml
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEndTask2.styles.css
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.TagHelpers.input.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.TagHelpers.output.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.RazorCoreGenerate.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.RazorTargetAssemblyInfo.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.RazorTargetAssemblyInfo.cs
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.Views.pdb
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.dll
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.pdb
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.genruntimeconfig.cache
+E:\3.Asp.Net.Core\Homework BackEnd\BackEndTask\BackEndTask2\BackEndTask2\obj\Debug\netcoreapp3.1\BackEndTask2.csproj.CopyComplete

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj": {}
+    "E:\\3.Asp.Net.Core\\Homework BackEnd\\BackEndTask\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj": {
+    "E:\\3.Asp.Net.Core\\Homework BackEnd\\BackEndTask\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj",
+        "projectUniqueName": "E:\\3.Asp.Net.Core\\Homework BackEnd\\BackEndTask\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj",
         "projectName": "BackEndTask2",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj",
+        "projectPath": "E:\\3.Asp.Net.Core\\Homework BackEnd\\BackEndTask\\BackEndTask2\\BackEndTask2\\BackEndTask2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\BackEndTask2\\BackEndTask2\\obj\\",
+        "outputPath": "E:\\3.Asp.Net.Core\\Homework BackEnd\\BackEndTask\\BackEndTask2\\BackEndTask2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
